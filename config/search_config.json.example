@@ -1,0 +1,7 @@
+{
+    "price": {
+        "min": 0,
+        "max": 2000
+    },
+    "county": "Dublin"
+}

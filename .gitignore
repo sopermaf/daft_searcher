@@ -1,0 +1,6 @@
+.vscode/*
+.venv/*
+
+# Sensitive information
+config/*.json
+daft_results.json
